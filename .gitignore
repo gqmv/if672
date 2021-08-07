@@ -39,3 +39,6 @@
 # End of https://www.toptal.com/developers/gitignore/api/c++
 .vscode/
 .vs/
+in.txt
+ctrlf
+out
