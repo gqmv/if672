@@ -1,6 +1,6 @@
 # Attribution 4.0 International (CC BY 4.0)
 
-This is a human-readable summary of (and not a substitute for) [the license.](https://creativecommons.org/licenses/by/4.0/)
+This is a human-readable summary of (and not a substitute for) [the license.](https://creativecommons.org/licenses/by/4.0/) (Which can be found at https://creativecommons.org/licenses/by/4.0/)
 
 ## You are free to:
 Share — copy and redistribute the material in any medium or format
