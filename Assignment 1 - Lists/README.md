@@ -1,11 +1,14 @@
 ## Problem A - Broken Keyboard (a.k.a. Beiju Text)
-[Problem Statement](https://github.com/gqmv/if672/files/7403413/p11988.pdf)
 
-[Suggested Solution](Assignment%201%20-%20Lists/brokenkeyboard.cpp/)
+### Problem Statement
+![Screenshot_18](https://user-images.githubusercontent.com/61971539/138566512-5e046324-0c89-4819-8e94-675381cd0f64.png)
+
+### [Suggested Solution](Assignment%201%20-%20Lists/brokenkeyboard.cpp/)
 
 
 ## Problem B - Ferry Loading IV 
-[Problem Statement](https://github.com/gqmv/if672/files/7403422/19f50fc74f7d869af16006210042d4ba.1.pdf)
 
+### Problem Statement
+![Screenshot_19](https://user-images.githubusercontent.com/61971539/138566554-acbff683-d36d-4f22-98b4-2b52b8bc1e8b.png)
 
-[Suggested Solution](Assignment%201%20-%20Lists/ferryloading.cpp/)
+### [Suggested Solution](Assignment%201%20-%20Lists/ferryloading.cpp/)
