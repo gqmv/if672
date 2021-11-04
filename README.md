@@ -1,7 +1,7 @@
 # Algorithms and Data Structures Solutions
 ### IF672 - Centro de Informática - Universidade Federal de Pernambuco
 
-This repository contains and accepted solutions for the challanges faced during the IF672 class at the Federal University of Pernambuco, in Brazil.
+This repository contains accepted solutions for the challanges faced during the IF672 class at the Federal University of Pernambuco, in Brazil.
 
 ## Index
 * [Assignment 1 - Lists](Assignment%201%20-%20Lists/)
