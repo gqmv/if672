@@ -6,4 +6,4 @@ This repository contains accepted solutions for the challanges faced during the 
 ## Index
 * [Assignment 1 - Lists](Assignment%201%20-%20Lists/)
 * [Assignment 2 - Sorting and Search Algorithms](Assignment%202%20-%20Sorting%20and%20Search%20Algorithms/)
-
+* [Assignment 3 - Hashtables and Binary Search Tree's](Assignment%203%20-%20Hashtables%20and%20BSTs/)
